@@ -1,0 +1,125 @@
+{
+  "portfolioData": {
+    "name": "Dharsana",
+    "role": "Full Stack Developer",
+    "intro": "Innovative and results-driven developer specializing in modern web technologies.",
+    "aboutMe": "Highly motivated developer with experience in modern web stack...",
+    "headerLogo": "",
+    "heroBackgroundImage": "https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2069&auto=format&fit=crop",
+    "aboutImage": "https://ik.imagekit.io/et2yistaz/p3.jpg?updatedAt=1765199493035",
+    "resumeLink": "#",
+    "paymentDetails": "UPI ID: dharsana09@okhdfc",
+    "contactEmail": "dharsanadevi09@gmail.com",
+    "footerTitle": "Dharsana Portfolio",
+    "footerText": "Crafting digital experiences with precision.",
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "experience": [],
+    "certificates": [],
+    "offeredServices": [
+      {
+        "title": "New Service",
+        "description": "dd",
+        "price": "1000"
+      }
+    ],
+    "consultationTopics": [
+      {
+        "id": "1766130804634",
+        "title": "New Topic",
+        "description": "dd",
+        "price": "499"
+      }
+    ],
+    "socialLinks": []
+  },
+  "messages": [
+    {
+      "id": 1766131749168,
+      "name": "s",
+      "email": "24urcs033@gmail.com",
+      "message": "hi",
+      "date": "12/19/2025, 1:39:09 PM"
+    },
+    {
+      "id": 1766132705568,
+      "name": "hi",
+      "email": "24urcs033@gmail.com",
+      "message": "hi",
+      "date": "12/19/2025, 1:55:05 PM"
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1766131677742,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "24urcs033@gmail.com",
+      "date": "2025-12-05",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:37:57 PM"
+    },
+    {
+      "id": 1766131679779,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "24urcs033@gmail.com",
+      "date": "2025-12-05",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:37:59 PM"
+    },
+    {
+      "id": 1766131680551,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "24urcs033@gmail.com",
+      "date": "2025-12-05",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:38:00 PM"
+    },
+    {
+      "id": 1766131680777,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "24urcs033@gmail.com",
+      "date": "2025-12-05",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:38:00 PM"
+    },
+    {
+      "id": 1766131711140,
+      "type": "Consultation",
+      "title": "New Topic",
+      "name": "devi",
+      "email": "24urcs033@gmail.com",
+      "date": "",
+      "price": "499",
+      "createdAt": "12/19/2025, 1:38:31 PM"
+    },
+    {
+      "id": 1766131929565,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "s@gmail.com",
+      "date": "2025-05-02",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:42:09 PM"
+    },
+    {
+      "id": 1766131931197,
+      "type": "Service",
+      "title": "New Service",
+      "name": "devi",
+      "email": "s@gmail.com",
+      "date": "2025-05-02",
+      "price": "1000",
+      "createdAt": "12/19/2025, 1:42:11 PM"
+    }
+  ]
+}
